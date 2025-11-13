@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1",
+    "title": "Selamat datang di ruang digital saya!",
+    "type": "artikel",
+    "date": "2025-01-10",
+    "tags": ["personal", "intro"],
+    "excerpt": "Ini adalah fans page pribadi saya, tempat saya berbagi proyek, tools, dan tulisan.",
+    "content": "# Selamat Datang!\n\nHai, saya Fahmi. Selamat datang di ruang digital pribadi saya.\n\nDi sini saya berbagi berbagai hal - dari proyek teknologi, artikel tentang development, hingga pemikiran pribadi tentang desain dan inovasi.\n\nWebsite ini adalah eksperimen saya dalam menggabungkan teknologi modern dengan pengalaman visual yang immersive. Saya harap Anda menikmati perjalanan menjelajahi konten saya.\n\nJangan ragu untuk menghubungi saya jika ada yang ingin didiskusikan!"
+  },
+  {
+    "id": "2",
+    "title": "Membangun Tool Otomasi Proyek",
+    "type": "project",
+    "date": "2025-01-05",
+    "tags": ["dev", "automation"],
+    "excerpt": "Cerita di balik tool kecil yang mempercepat workflow konstruksi digital.",
+    "content": "# Tool Otomasi Proyek\n\n## Latar Belakang\n\nDalam dunia development modern, automation adalah kunci produktivitas. Tool ini lahir dari kebutuhan untuk mempercepat proses repetitif dalam workflow harian.\n\n## Fitur Utama\n\n- Automated testing pipeline\n- Code generation utilities\n- Deployment automation\n- Performance monitoring\n\n## Tech Stack\n\n- Node.js\n- Python\n- Docker\n- GitHub Actions\n\n## Hasil\n\nTool ini berhasil mengurangi waktu deployment dari 30 menit menjadi hanya 5 menit!"
+  },
+  {
+    "id": "3",
+    "title": "Filosofi Desain Modern",
+    "type": "artikel",
+    "date": "2024-12-20",
+    "tags": ["design", "ui/ux"],
+    "excerpt": "Pemikiran tentang bagaimana desain modern harus menyeimbangkan estetika dan fungsionalitas.",
+    "content": "# Filosofi Desain Modern\n\nDesain bukan hanya tentang bagaimana sesuatu terlihat, tapi bagaimana ia berfungsi.\n\n## Prinsip Utama\n\n1. **Simplicity** - Kurangi kompleksitas visual\n2. **Consistency** - Gunakan pattern yang familiar\n3. **Accessibility** - Desain untuk semua orang\n4. **Performance** - Estetika tidak boleh mengorbankan kecepatan\n\n## Kesimpulan\n\nDesain terbaik adalah yang tidak terlihat - ia bekerja dengan seamless dan intuitif."
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "title": "AI Content Generator",
+    "description": "Platform untuk generate konten marketing dengan AI. Menggunakan GPT-4 untuk menghasilkan copy yang engaging dan SEO-friendly.",
+    "tech": ["Next.js", "OpenAI API", "Tailwind CSS", "MongoDB"],
+    "demoLink": "#",
+    "githubLink": "#",
+    "image": "/placeholder-project-1.jpg",
+    "featured": true
+  },
+  {
+    "id": "2",
+    "title": "Task Management 3D",
+    "description": "Aplikasi task management dengan visualisasi 3D interaktif. Project cards dapat di-drag dalam ruang 3D untuk prioritization.",
+    "tech": ["React", "Three.js", "Node.js", "PostgreSQL"],
+    "demoLink": "#",
+    "githubLink": "#",
+    "image": "/placeholder-project-2.jpg",
+    "featured": true
+  },
+  {
+    "id": "3",
+    "title": "Real-time Analytics Dashboard",
+    "description": "Dashboard analytics dengan real-time data visualization. Menampilkan metrics bisnis dengan charts interaktif dan beautiful UI.",
+    "tech": ["Vue.js", "D3.js", "WebSocket", "Redis"],
+    "demoLink": "#",
+    "githubLink": "#",
+    "image": "/placeholder-project-3.jpg",
+    "featured": false
+  }
+]
